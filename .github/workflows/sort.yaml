@@ -8,14 +8,16 @@ on:
 
 jobs:
   # Encoding job
-  archive:
+  publish:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
       # Install dependencies
+      - uses: dart-lang/setup-dart@v1.3
+      # Sort the list
       - name: Update sorting
         run: |
-          echo "This will eventually do something"
+          dart sort.dart
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
