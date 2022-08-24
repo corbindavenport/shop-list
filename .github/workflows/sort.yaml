@@ -20,7 +20,7 @@ jobs:
       # Sort the list
       - name: Update sorting
         run: |
-          dart sort.dart
+          dart bin/sort.dart
           git config user.name github-actions
           git config user.email github-actions@github.com
           git add .
