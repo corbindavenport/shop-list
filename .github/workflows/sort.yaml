@@ -3,7 +3,11 @@
 name: Sort site list
 
 # Controls when the workflow will run
-on: [push, workflow_dispatch]
+on:
+  push:
+    branches:
+      - dev
+  workflow_dispatch:
 
 jobs:
   # Encoding job
