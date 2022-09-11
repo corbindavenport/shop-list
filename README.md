@@ -2,6 +2,8 @@
 
 This is a list of shopping websites, originally created for the [Wii Shop Channel Music](https://github.com/corbindavenport/wii-shop-extension) browser extension.
 
+[![](https://data.jsdelivr.com/v1/package/gh/corbindavenport/shop-list/badge)](https://www.jsdelivr.com/package/gh/corbindavenport/shop-list)
+
 ## Submit a website
 
 To submit a website, please [create an issue](https://github.com/corbindavenport/shop-list/issues/new/choose) with a list of each site you want to add. You can aslso create a pull request for the `dev` branch, modifying the `list.txt` file.
