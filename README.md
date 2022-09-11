@@ -8,22 +8,22 @@ To submit a website, please [create an issue](https://github.com/corbindavenport
 
 ## How to use the list
 
-You can grab the latest available version from `list.txt` using the raw link:
-
-```
-https://raw.githubusercontent.com/corbindavenport/shop-list/main/list.txt
-```
-
-You can also use a CDN like jsDelivr (though it shouldn't be needed, since GitHub provides the proper MIME type and CORS headers):
+You can grab the latest available version from `list.txt` using jsDelivr:
 
 ```
 https://cdn.jsdelivr.net/gh/corbindavenport/shop-list/list.txt
 ```
 
+It also works through GitHub Pages:
+
+```
+https://corbindavenport.github.io/shop-list/list.txt
+```
+
 You can download the list and process it using JavaScript, like this:
 
 ```
-fetch('https://raw.githubusercontent.com/corbindavenport/shop-list/main/list.txt')
+fetch('https://cdn.jsdelivr.net/gh/corbindavenport/shop-list/list.txt')
     .then(res => {
         return res.text()
     }).then(text => {
