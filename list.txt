@@ -558,6 +558,7 @@ gatry.com
 gearbest.com
 geebo.com
 german.alibaba.com
+gfuel.com
 glassons.com
 glensfalls.craigslist.org
 gmarket.co.kr
@@ -1598,4 +1599,3 @@ zehrs.ca
 zenmarket.jp
 zooplus.de
 zooplus.fr
-gfuel.com
