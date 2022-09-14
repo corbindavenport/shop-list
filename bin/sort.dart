@@ -10,6 +10,8 @@ Future<void> main() async {
     List sites = contents.split('\n');
     // Remove empty lines
     sites = sites.where((site) => site != '').toList();
+    // Remove duplicates: https://stackoverflow.com/a/51446910
+    sites = sites.toSet().toList();
     // Sort list alphabetically
     sites.sort();
     // Write changes back to file

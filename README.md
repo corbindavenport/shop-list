@@ -16,10 +16,10 @@ You can grab the latest available version from `list.txt` using jsDelivr:
 https://cdn.jsdelivr.net/gh/corbindavenport/shop-list/list.txt
 ```
 
-It also works through GitHub Pages:
+It should also work directly through GitHub:
 
 ```
-https://corbindavenport.github.io/shop-list/list.txt
+https://raw.githubusercontent.com/corbindavenport/shop-list/main/list.txt
 ```
 
 You can download the list and process it using JavaScript, like this:
