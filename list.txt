@@ -129,6 +129,7 @@ barkshop.com
 bartelldrugs.com
 batonrouge.craigslist.org
 battlecreek.craigslist.org
+battlehill.net
 bauhaus.at
 bauhaus.dk
 bauhaus.info
@@ -268,7 +269,6 @@ chipart.com.br
 chipotle.com
 chloe.com
 christchurch.craigslist.org
-chrome.google.com
 cincinnati.craigslist.org
 citymarket.com
 clarksville.craigslist.org
@@ -547,6 +547,7 @@ gainesville.craigslist.org
 galaxus.ch
 galeria.de
 galveston.craigslist.org
+gameexplorers.gr
 gamers.co.jp
 gamesenco.com
 gamestop.com
@@ -558,6 +559,7 @@ gatry.com
 gearbest.com
 geebo.com
 german.alibaba.com
+gfuel.com
 glassons.com
 glensfalls.craigslist.org
 gmarket.co.kr
@@ -753,6 +755,7 @@ kokomo.craigslist.org
 komplett.no
 komputronik.pl
 konga.com
+kotsovolos.gr
 kpr.craigslist.org
 kroger.com
 ksu.craigslist.org
@@ -1115,6 +1118,7 @@ piecesauto24.com
 pier1.com
 pittsburgh.craigslist.org
 pixmania.fr
+plaisio.gr
 plattsburgh.craigslist.org
 play.google.com
 poconos.craigslist.org
@@ -1159,6 +1163,7 @@ provo.craigslist.org
 psegameshop.com
 pt.aliexpress.com
 pub.pchomeus.com
+public.gr
 pueblo.craigslist.org
 puertorico.craigslist.org
 pullman.craigslist.org
@@ -1443,6 +1448,7 @@ texoma.craigslist.org
 thalia.at
 thalia.de
 thebay.com
+theconsoleclub.gr
 thegames.be
 themarket.com
 thepremierstore.com
