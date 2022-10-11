@@ -1,5 +1,3 @@
-biccamera.com
-ja.aliexpress.com
 11st.co.kr
 123ink.ca
 1300k.com
@@ -154,6 +152,7 @@ bham.craigslist.org
 bhinneka.com
 bhldn.com
 bhphotovideo.com
+biccamera.com
 bigbend.craigslist.org
 biggo.com.tw
 biglots.com
@@ -685,6 +684,7 @@ itch.io
 item.rakuten.co.jp
 itemku.com
 ithaca.craigslist.org
+ja.aliexpress.com
 jackson.craigslist.org
 jacksontn.craigslist.org
 jacksonville.craigslist.org
