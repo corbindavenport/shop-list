@@ -152,6 +152,7 @@ bham.craigslist.org
 bhinneka.com
 bhldn.com
 bhphotovideo.com
+biccamera.com
 bigbend.craigslist.org
 biggo.com.tw
 biglots.com
@@ -307,6 +308,7 @@ costarica.craigslist.org
 costco.ca
 costco.com
 cotedazur.craigslist.org
+cr.shopping.naver.com
 crocs.com
 csd.craigslist.org
 cultura.com
@@ -320,6 +322,7 @@ dafiti.com.br
 daisojapan.com
 dallas.craigslist.org
 damniloveindonesia.com
+danawa.com
 danville.craigslist.org
 daraz.com.bd
 darty.com
@@ -674,15 +677,19 @@ inspireuplift.com
 instacart.com
 instant-gaming.com
 intermixonline.com
+internationaljock.com
 interpark.com
 invadeit.co.th
 iowacity.craigslist.org
 iplace.com.br
 isawitfirst.com
 itch.io
+item.gmarket.co.kr
 item.rakuten.co.jp
 itemku.com
+itempage3.auction.co.kr
 ithaca.craigslist.org
+ja.aliexpress.com
 jackson.craigslist.org
 jacksontn.craigslist.org
 jacksonville.craigslist.org
@@ -1046,6 +1053,7 @@ offerup.com
 officeworks.com.au
 official-goods-store.jp
 ogden.craigslist.org
+ohou.se
 okaloosa.craigslist.org
 oklahomacity.craigslist.org
 oldnavy.gap.com
@@ -1136,6 +1144,7 @@ pricerunner.co.uk
 pricerunner.com
 pricerunner.dk
 primecables.ca
+prod.danawa.com
 producto.mercadolibre.bo
 producto.mercadolibre.cl
 producto.mercadolibre.co.cr
@@ -1267,6 +1276,7 @@ scottsbluff.craigslist.org
 scranton.craigslist.org
 sd.craigslist.org
 sea.banggood.com
+search.shopping.naver.com
 sears.com
 seattle.craigslist.org
 secretlair.wizards.com
@@ -1318,6 +1328,8 @@ shopmyexchange.com
 shopokstate.com
 shopperplus.ca
 shopping.google.com
+shopping.interpark.com
+shopping.naver.com
 shopping.parenting.com.tw
 shopping.yahoo.co.jp
 showlow.craigslist.org
@@ -1602,5 +1614,6 @@ zara.com
 zattini.com.br
 zehrs.ca
 zenmarket.jp
+zoom-platform.com
 zooplus.de
 zooplus.fr
