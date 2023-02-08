@@ -294,6 +294,7 @@ conrad.de
 console5.com
 converse.com
 cookeville.craigslist.org
+coolblue.be
 coolblue.nl
 coop.co.uk
 coop.dk
@@ -1026,6 +1027,7 @@ nh.craigslist.org
 nihonmart.id
 nike.com
 nike.de
+nl.fnac.be
 nmi.craigslist.org
 nocibe.fr
 noelleeming.co.nz
@@ -1211,6 +1213,7 @@ recycler.com
 redbubble.com
 redding.craigslist.org
 reebok.com
+rei.com
 reichelt.de
 reifen.de
 reifen24.de
@@ -1531,6 +1534,7 @@ us.shop.realmadrid.com
 utica.craigslist.org
 valdosta.craigslist.org
 vat19.com
+vandenborre.be
 vente-du-diable.com
 ventura.craigslist.org
 versace.com
