@@ -1,18 +1,3 @@
-aliexpress.ru
-fr.aliexpress.com
-pl.aliexpress.com
-he.aliexpress.com
-it.aliexpress.com
-tr.aliexpress.com
-de.aliexpress.com
-th.aliexpress.com
-nl.aliexpress.com
-ja.aliexpress.com
-ar.aliexpress.com
-ko.aliexpress.com
-www2.mouser.com
-mouser.de
-eu.mouser.com
 11st.co.kr
 123ink.ca
 1300k.com
@@ -51,6 +36,7 @@ aldi.us
 alfamart.co.id
 alibaba.com
 aliexpress.com
+aliexpress.ru
 allegro.pl
 allegrolokalnie.pl
 allentown.craigslist.org
@@ -92,6 +78,7 @@ annarbor.craigslist.org
 ao.com
 appleton.craigslist.org
 appliancesonline.com.au
+ar.aliexpress.com
 argos.co.uk
 armaniexchange.com
 articulo.mercadolibre.bo
@@ -355,6 +342,7 @@ darty.com
 davidjones.com
 dayton.craigslist.org
 daytona.craigslist.org
+de.aliexpress.com
 debenhams.com
 decathlon.de
 decathlon.fr
@@ -511,6 +499,7 @@ es.aliexpress.com
 eslite.com
 etmall.com.tw
 etsy.com
+eu.mouser.com
 eugene.craigslist.org
 euro.com.pl
 eurocoinhouse.com
@@ -564,6 +553,7 @@ fortlauderdale.craigslist.org
 fortmyers.craigslist.org
 fortsmith.craigslist.org
 fortwayne.craigslist.org
+fr.aliexpress.com
 fravega.com
 frederick.craigslist.org
 fredericksburg.craigslist.org
@@ -635,6 +625,7 @@ hartford.craigslist.org
 harveynorman.co.nz
 hattiesburg.craigslist.org
 hdmall.id
+he.aliexpress.com
 heb.com
 helena.craigslist.org
 hema.com
@@ -714,12 +705,14 @@ invadeit.co.th
 iowacity.craigslist.org
 iplace.com.br
 isawitfirst.com
+it.aliexpress.com
 itch.io
 item.gmarket.co.kr
 item.rakuten.co.jp
 itemku.com
 itempage3.auction.co.kr
 ithaca.craigslist.org
+ja.aliexpress.com
 jackson.craigslist.org
 jacksontn.craigslist.org
 jacksonville.craigslist.org
@@ -788,6 +781,7 @@ klingel.de
 kmart.co.nz
 kmart.com.au
 knoxville.craigslist.org
+ko.aliexpress.com
 koawach.de
 kohls.com
 kokomo.craigslist.org
@@ -1000,6 +994,7 @@ morrisons.com
 moscow.craigslist.org
 moseslake.craigslist.org
 mouser.com
+mouser.de
 movic.jp
 muji.us
 muncie.craigslist.org
@@ -1061,6 +1056,7 @@ nh.craigslist.org
 nihonmart.id
 nike.com
 nike.de
+nl.aliexpress.com
 nl.fnac.be
 nmi.craigslist.org
 nocibe.fr
@@ -1166,6 +1162,7 @@ piecesauto24.com
 pier1.com
 pittsburgh.craigslist.org
 pixmania.fr
+pl.aliexpress.com
 plaisio.gr
 plattsburgh.craigslist.org
 play.google.com
@@ -1489,6 +1486,7 @@ tesco.com
 teufel.de
 texarkana.craigslist.org
 texoma.craigslist.org
+th.aliexpress.com
 thalia.at
 thalia.de
 thebay.com
@@ -1525,6 +1523,7 @@ toulouse.craigslist.org
 tower.jp
 toyco.co.nz
 toysrus.com
+tr.aliexpress.com
 tractorsupply.com
 trademe.co.nz
 traderjoes.com
@@ -1623,6 +1622,7 @@ wowcher.co.uk
 wv.craigslist.org
 www.ewtnreligiouscatalogue.com
 www2.hm.com
+www2.mouser.com
 wyoming.craigslist.org
 x-kom.pl
 xl-byg.dk
