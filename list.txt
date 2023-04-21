@@ -18,6 +18,7 @@ adafruit.com
 addisababa.craigslist.org
 adidas.com.au
 adidas.de
+adidas.pl
 adlandpro.com
 ae.com
 agoda.com
@@ -36,6 +37,7 @@ alfamart.co.id
 alibaba.com
 aliexpress.com
 allegro.pl
+allegrolokalnie.pl
 allentown.craigslist.org
 allround-pc.com
 alternate.de
@@ -130,6 +132,7 @@ bangladesh.craigslist.org
 barkbox.com
 barkshop.com
 bartelldrugs.com
+based.win
 batonrouge.craigslist.org
 battlecreek.craigslist.org
 battlehill.net
@@ -804,6 +807,7 @@ le-kiosque-a-pizzas.com
 leboncoin.fr
 leclercdrive.fr
 lego.com
+leroymerlin.pl
 letgo.com
 levi.com
 lewiston.craigslist.org
@@ -899,6 +903,7 @@ materiel.net
 matias.store
 mattoon.craigslist.org
 maurices.com
+maxvape.pl
 mcallen.craigslist.org
 meadville.craigslist.org
 mechanicalkeyboards.com
@@ -1062,6 +1067,7 @@ o-gundam.de
 oakley.com
 oasisfashion.com
 obi.de
+obi.pl
 ocala.craigslist.org
 odessa.craigslist.org
 offerup.com
@@ -1072,6 +1078,7 @@ ohou.se
 okaloosa.craigslist.org
 oklahomacity.craigslist.org
 oldnavy.gap.com
+oleole.pl
 olx.co.id
 olx.pl
 olx.ro
@@ -1195,6 +1202,7 @@ pullman.craigslist.org
 puma.com
 pupbox.com
 pxmart.com.tw
+pyszne.pl
 qoo10.com
 quadcities.craigslist.org
 queenonlinestore.com
@@ -1350,6 +1358,7 @@ shopping.interpark.com
 shopping.naver.com
 shopping.parenting.com.tw
 shopping.yahoo.co.jp
+shoppy.gg
 showlow.craigslist.org
 shreveport.craigslist.org
 sierravista.craigslist.org
