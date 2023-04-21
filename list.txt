@@ -16,7 +16,9 @@ accra.craigslist.org
 acehardware.com
 adafruit.com
 addisababa.craigslist.org
+adidas.com.au
 adidas.de
+adidas.pl
 adlandpro.com
 ae.com
 agoda.com
@@ -34,12 +36,15 @@ aldi.us
 alfamart.co.id
 alibaba.com
 aliexpress.com
+aliexpress.ru
 allegro.pl
+allegrolokalnie.pl
 allentown.craigslist.org
 allround-pc.com
 alternate.de
 altoona.craigslist.org
 amarillo.craigslist.org
+amartfurniture.com.au
 amazon.ae
 amazon.ca
 amazon.cn
@@ -72,6 +77,8 @@ annapolis.craigslist.org
 annarbor.craigslist.org
 ao.com
 appleton.craigslist.org
+appliancesonline.com.au
+ar.aliexpress.com
 argos.co.uk
 armaniexchange.com
 articulo.mercadolibre.bo
@@ -127,6 +134,7 @@ bangladesh.craigslist.org
 barkbox.com
 barkshop.com
 bartelldrugs.com
+based.win
 batonrouge.craigslist.org
 battlecreek.craigslist.org
 battlehill.net
@@ -162,6 +170,7 @@ bilka.dk
 billig-arbejdstoj.dk
 billings.craigslist.org
 binghamton.craigslist.org
+binglee.com.au
 bisanara.com
 bismarck.craigslist.org
 blacksburg.craigslist.org
@@ -241,6 +250,7 @@ cashconverters.com.au
 cashconverters.es
 castlemaniagames.com
 castorama.pl
+catch.com.au
 catskills.craigslist.org
 cb2.com
 ccc.eu
@@ -262,6 +272,7 @@ charlotte.craigslist.org
 charlottesville.craigslist.org
 chattanooga.craigslist.org
 chautauqua.craigslist.org
+chemistwarehouse.com.au
 chewy.com
 chicago.craigslist.org
 chico.craigslist.org
@@ -281,6 +292,7 @@ cnj.craigslist.org
 coachoutlet.com
 coinshopgroup.com
 coleman.com
+coles.com.au
 collegestation.craigslist.org
 colombia.craigslist.org
 columbia.craigslist.org
@@ -327,8 +339,10 @@ danawa.com
 danville.craigslist.org
 daraz.com.bd
 darty.com
+davidjones.com
 dayton.craigslist.org
 daytona.craigslist.org
+de.aliexpress.com
 debenhams.com
 decathlon.de
 decathlon.fr
@@ -400,6 +414,7 @@ discogs.com
 diverse.direct
 diy.com
 dlsite.com
+dm.at
 dm.de
 docmorris.de
 dolcegabbana.com
@@ -459,6 +474,7 @@ ecommerce.datablitz.com.ph
 ecs.toranoana.jp
 eddiebauer.com
 eis.de
+elbenwald.de
 eleshop.jp
 elgiganten.dk
 elkjop.no
@@ -483,6 +499,7 @@ es.aliexpress.com
 eslite.com
 etmall.com.tw
 etsy.com
+eu.mouser.com
 eugene.craigslist.org
 euro.com.pl
 eurocoinhouse.com
@@ -500,6 +517,7 @@ fairbanks.craigslist.org
 falabella.com
 falabella.com.ar
 fanatical.com
+fantasticfurniture.com.au
 farfetch.com
 fargo.craigslist.org
 farmers.co.nz
@@ -535,6 +553,7 @@ fortlauderdale.craigslist.org
 fortmyers.craigslist.org
 fortsmith.craigslist.org
 fortwayne.craigslist.org
+fr.aliexpress.com
 fravega.com
 frederick.craigslist.org
 fredericksburg.craigslist.org
@@ -606,6 +625,7 @@ hartford.craigslist.org
 harveynorman.co.nz
 hattiesburg.craigslist.org
 hdmall.id
+he.aliexpress.com
 heb.com
 helena.craigslist.org
 hema.com
@@ -685,6 +705,7 @@ invadeit.co.th
 iowacity.craigslist.org
 iplace.com.br
 isawitfirst.com
+it.aliexpress.com
 itch.io
 item.gmarket.co.kr
 item.rakuten.co.jp
@@ -758,7 +779,10 @@ klikindomaret.com
 kliknklik.com
 klingel.de
 kmart.co.nz
+kmart.com.au
 knoxville.craigslist.org
+ko.aliexpress.com
+koawach.de
 kohls.com
 kokomo.craigslist.org
 komplett.no
@@ -794,6 +818,7 @@ le-kiosque-a-pizzas.com
 leboncoin.fr
 leclercdrive.fr
 lego.com
+leroymerlin.pl
 letgo.com
 levi.com
 lewiston.craigslist.org
@@ -889,6 +914,7 @@ materiel.net
 matias.store
 mattoon.craigslist.org
 maurices.com
+maxvape.pl
 mcallen.craigslist.org
 meadville.craigslist.org
 mechanicalkeyboards.com
@@ -968,11 +994,13 @@ morrisons.com
 moscow.craigslist.org
 moseslake.craigslist.org
 mouser.com
+mouser.de
 movic.jp
 muji.us
 muncie.craigslist.org
 musimundo.com
 muskegon.craigslist.org
+mwave.com.au
 myaccount.mercadolibre.bo
 myaccount.mercadolibre.cl
 myaccount.mercadolibre.co.cr
@@ -995,6 +1023,7 @@ myaccount.mercadolibre.com.sv
 myaccount.mercadolibre.com.uy
 myaccount.mercadolibre.com.ve
 myaccount.mercadolivre.com.br
+myer.com.au
 myrtlebeach.craigslist.org
 mytoys.de
 mywheels.tv
@@ -1027,6 +1056,7 @@ nh.craigslist.org
 nihonmart.id
 nike.com
 nike.de
+nl.aliexpress.com
 nl.fnac.be
 nmi.craigslist.org
 nocibe.fr
@@ -1050,6 +1080,7 @@ o-gundam.de
 oakley.com
 oasisfashion.com
 obi.de
+obi.pl
 ocala.craigslist.org
 odessa.craigslist.org
 offerup.com
@@ -1060,6 +1091,7 @@ ohou.se
 okaloosa.craigslist.org
 oklahomacity.craigslist.org
 oldnavy.gap.com
+oleole.pl
 olx.co.id
 olx.pl
 olx.ro
@@ -1102,6 +1134,7 @@ parkersburg.craigslist.org
 partycity.ca
 payless.com
 pbtech.co.nz
+pccasegear.com
 pccomponentes.com
 pchome.co.th
 pchome.com.tw
@@ -1129,6 +1162,7 @@ piecesauto24.com
 pier1.com
 pittsburgh.craigslist.org
 pixmania.fr
+pl.aliexpress.com
 plaisio.gr
 plattsburgh.craigslist.org
 play.google.com
@@ -1182,6 +1216,7 @@ pullman.craigslist.org
 puma.com
 pupbox.com
 pxmart.com.tw
+pyszne.pl
 qoo10.com
 quadcities.craigslist.org
 queenonlinestore.com
@@ -1213,6 +1248,7 @@ recycler.com
 redbubble.com
 redding.craigslist.org
 reebok.com
+refurbed.de
 rei.com
 reichelt.de
 reifen.de
@@ -1276,6 +1312,7 @@ savannah.craigslist.org
 saxo.com
 saxo.dk
 sayurbox.com
+scorptec.com.au
 scottsbluff.craigslist.org
 scranton.craigslist.org
 sd.craigslist.org
@@ -1349,21 +1386,8 @@ sleepnumber.com
 slo.craigslist.org
 smartstore.naver.com
 smd.craigslist.org
-smile.amazon.ca
-smile.amazon.cn
-smile.amazon.co.jp
-smile.amazon.co.uk
-smile.amazon.com
-smile.amazon.com.au
-smile.amazon.com.br
-smile.amazon.com.mx
-smile.amazon.de
-smile.amazon.es
-smile.amazon.fr
-smile.amazon.in
-smile.amazon.it
-smile.amazon.nl
 smyk.com
+smythstoys.com
 snapcraft.io
 snapdeal.com
 sociolla.com
@@ -1445,6 +1469,7 @@ tampa.craigslist.org
 taniaksiazka.pl
 taobao.com
 target.com
+target.com.au
 tcgplayer.com
 tchibo.com
 tchibo.de
@@ -1461,11 +1486,14 @@ tesco.com
 teufel.de
 texarkana.craigslist.org
 texoma.craigslist.org
+th.aliexpress.com
 thalia.at
 thalia.de
 thebay.com
 theconsoleclub.gr
 thegames.be
+thegoodguys.com.au
+theiconic.com.au
 themarket.com
 thepremierstore.com
 therealreal.com
@@ -1495,6 +1523,7 @@ toulouse.craigslist.org
 tower.jp
 toyco.co.nz
 toysrus.com
+tr.aliexpress.com
 tractorsupply.com
 trademe.co.nz
 traderjoes.com
@@ -1533,8 +1562,8 @@ us.shein.com
 us.shop.realmadrid.com
 utica.craigslist.org
 valdosta.craigslist.org
-vat19.com
 vandenborre.be
+vat19.com
 vente-du-diable.com
 ventura.craigslist.org
 versace.com
@@ -1585,6 +1614,7 @@ winchester.craigslist.org
 winstall.app
 winstonsalem.craigslist.org
 wish.com
+woolworths.com.au
 worcester.craigslist.org
 worldmarket.com
 worldofsweets.de
@@ -1592,6 +1622,7 @@ wowcher.co.uk
 wv.craigslist.org
 www.ewtnreligiouscatalogue.com
 www2.hm.com
+www2.mouser.com
 wyoming.craigslist.org
 x-kom.pl
 xl-byg.dk

@@ -6,7 +6,7 @@ This is a list of shopping websites, originally created for the [Wii Shop Channe
 
 ## Submit a website
 
-To submit a website, please [create an issue](https://github.com/corbindavenport/shop-list/issues/new/choose) with a list of each site you want to add. You can aslso create a pull request for the `dev` branch, modifying the `list.txt` file. Sorting and other fixes are handled after each commit by `sort.dart`.
+To submit a website, please [create an issue](https://github.com/corbindavenport/shop-list/issues/new/choose) with a list of each site you want to add. You can also create a pull request for the `dev` branch, modifying the `list.txt` file. Sorting and other fixes are handled after each commit by `sort.dart`.
 
 ## List links
 
