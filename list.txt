@@ -1358,7 +1358,6 @@ shopping.interpark.com
 shopping.naver.com
 shopping.parenting.com.tw
 shopping.yahoo.co.jp
-shoppy.gg
 showlow.craigslist.org
 shreveport.craigslist.org
 sierravista.craigslist.org
