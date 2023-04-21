@@ -1,6 +1,3 @@
-refurbed.de
-dm.at
-koawach.de
 11st.co.kr
 123ink.ca
 1300k.com
@@ -414,6 +411,7 @@ discogs.com
 diverse.direct
 diy.com
 dlsite.com
+dm.at
 dm.de
 docmorris.de
 dolcegabbana.com
@@ -776,6 +774,7 @@ klingel.de
 kmart.co.nz
 kmart.com.au
 knoxville.craigslist.org
+koawach.de
 kohls.com
 kokomo.craigslist.org
 komplett.no
@@ -1238,6 +1237,7 @@ recycler.com
 redbubble.com
 redding.craigslist.org
 reebok.com
+refurbed.de
 rei.com
 reichelt.de
 reifen.de
