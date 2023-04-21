@@ -1,3 +1,18 @@
+aliexpress.ru
+fr.aliexpress.com
+pl.aliexpress.com
+he.aliexpress.com
+it.aliexpress.com
+tr.aliexpress.com
+de.aliexpress.com
+th.aliexpress.com
+nl.aliexpress.com
+ja.aliexpress.com
+ar.aliexpress.com
+ko.aliexpress.com
+www2.mouser.com
+mouser.de
+eu.mouser.com
 11st.co.kr
 123ink.ca
 1300k.com
@@ -705,7 +720,6 @@ item.rakuten.co.jp
 itemku.com
 itempage3.auction.co.kr
 ithaca.craigslist.org
-ja.aliexpress.com
 jackson.craigslist.org
 jacksontn.craigslist.org
 jacksonville.craigslist.org
