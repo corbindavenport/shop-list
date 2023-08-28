@@ -277,6 +277,7 @@ charleston.craigslist.org
 charlestonwv.craigslist.org
 charlotte.craigslist.org
 charlottesville.craigslist.org
+chariz.com
 chattanooga.craigslist.org
 chautauqua.craigslist.org
 chemistwarehouse.com.au
@@ -608,6 +609,8 @@ german.alibaba.com
 gfuel.com
 glassons.com
 glensfalls.craigslist.org
+github.com/corbindavenport/shop-list
+github.com/corbindavenport/wii-shop-extension
 gmarket.co.kr
 gngbd.com
 go-sport.com
@@ -647,6 +650,7 @@ harrys.com
 hartford.craigslist.org
 harveynorman.co.nz
 hattiesburg.craigslist.org
+havoc.app
 hdmall.id
 he.aliexpress.com
 heb.com
@@ -781,6 +785,7 @@ jysk.pl
 k24klik.com
 kabs.de
 kabum.com.br
+kadokawa.com.tw
 kalamazoo.craigslist.org
 kalispell.craigslist.org
 kalunga.com.br
@@ -1206,6 +1211,7 @@ pl.aliexpress.com
 plaisio.gr
 plattsburgh.craigslist.org
 play.google.com
+pleasedonotentershop.com
 poconos.craigslist.org
 pontofrio.com.br
 porthuron.craigslist.org
@@ -1266,6 +1272,7 @@ qvc.com
 qvc.de
 racine.craigslist.org
 racuten.co.jp
+ra1nbox.com/#buynow
 rajagames.co.id
 rakita.com
 rakitonline.com
@@ -1333,6 +1340,7 @@ salina.craigslist.org
 sallybeauty.com
 saltlakecity.craigslist.org
 salvador.craigslist.org
+sanmin.com.tw
 samsclub.com
 sanangelo.craigslist.org
 sanantonio.craigslist.org
@@ -1405,6 +1413,7 @@ shopee.ph
 shopee.pl
 shopee.tw
 shopgoodwill.com
+shopify.com
 shopinbit.de
 shopmyexchange.com
 shopokstate.com
@@ -1622,6 +1631,7 @@ ventura.craigslist.org
 versace.com
 very.co.uk
 victoriatx.craigslist.org
+victorinox.com
 vietnam.craigslist.org
 villman.com
 vinted.fr
