@@ -43,6 +43,7 @@ allentown.craigslist.org
 allround-pc.com
 alternate.de
 altoona.craigslist.org
+altstore.io
 amarillo.craigslist.org
 amartfurniture.com.au
 amazon.ae
@@ -76,8 +77,11 @@ animate-onlineshop.jp
 annapolis.craigslist.org
 annarbor.craigslist.org
 ao.com
+appimage.org
+apple.com
 appleton.craigslist.org
 appliancesonline.com.au
+appstore.com
 ar.aliexpress.com
 argos.co.uk
 armaniexchange.com
@@ -218,6 +222,8 @@ bulgaria.craigslist.org
 bungiestore.com
 bunnings.co.nz
 burlington.craigslist.org
+burgerking.com
+burgerking.com.tw
 buscape.com.br
 bushiroad-store.com
 but.fr
@@ -240,6 +246,7 @@ caribbean.craigslist.org
 carmudi.co.id
 carousell.ph
 carrefour.com.br
+carrefour.com.tw
 carrefour.fr
 carsome.id
 casablanca.craigslist.org
@@ -281,6 +288,7 @@ chipart.com.br
 chipotle.com
 chloe.com
 christchurch.craigslist.org
+cht.com.tw
 cincinnati.craigslist.org
 citymarket.com
 clarksville.craigslist.org
@@ -329,6 +337,7 @@ curiada.com
 curitiba.craigslist.org
 currys.co.uk
 cuyana.com
+cjscope.com.tw
 cyberport.de
 czasnaherbate.net
 dafiti.com.br
@@ -420,11 +429,14 @@ docmorris.de
 dolcegabbana.com
 dollarshaveclub.com
 dollartree.com
+dokodemo.world
 doordash.com
 doordashstore.com
 dorothyperkins.com
 dothan.craigslist.org
 douglas.de
+dpp.org.tw/donate
+dpp.org.tw/membershipfee
 dressbarn.com
 dresslink.com
 drmartens.com
@@ -473,6 +485,7 @@ ebgames.co.nz
 ecommerce.datablitz.com.ph
 ecs.toranoana.jp
 eddiebauer.com
+efficient.com.tw
 eis.de
 elbenwald.de
 eleshop.jp
@@ -487,6 +500,7 @@ emag.ro
 emp.de
 empik.com
 en.animate-onlineshop.jp
+en.superme.com
 eneba.com
 enid.craigslist.org
 enterkomputer.com
@@ -504,6 +518,7 @@ eugene.craigslist.org
 euro.com.pl
 eurocoinhouse.com
 euronics.de
+eurostar.com
 evansville.craigslist.org
 event.rakuten.co.jp
 everlane.com
@@ -513,9 +528,11 @@ express.com
 ezwhite.id
 fabelio.com
 fabric.com
+facebook.com/business/shops
 fairbanks.craigslist.org
 falabella.com
 falabella.com.ar
+family.com.tw
 fanatical.com
 fantasticfurniture.com.au
 farfetch.com
@@ -523,9 +540,11 @@ fargo.craigslist.org
 farmers.co.nz
 farmington.craigslist.org
 farmsteadapp.com
+fas-bee.com
 fatface.com
 fayar.craigslist.org
 fayetteville.craigslist.org
+feastables.com
 feds.com.tw
 feebee.com.tw
 fendi.com
@@ -537,13 +556,17 @@ flaconi.de
 flagstaff.craigslist.org
 flaschenpost.de
 flathub.org
+flatpak.org
 flint.craigslist.org
 flipkart.com
+flixbus.com
 florencesc.craigslist.org
 fnac.com
 fnac.fr
 foetex.dk
 food.grab.com
+foodpanda.com
+foodpanda.com.tw
 foodpanda.ph
 forever21.com
 fortaleza.craigslist.org
@@ -729,6 +752,8 @@ jcrew.com
 jd.co.th
 jd.id
 jdwilliams.co.uk
+jelly-beansshop.com
+jellycat.com
 jensonusa.com
 jerseyshore.craigslist.org
 jerusalem.craigslist.org
@@ -737,11 +762,13 @@ jib.co.th
 joann.com
 joebrowns.co.uk
 johnlewis.com
+joinhoney.com
 jomashop.com
 jonesboro.craigslist.org
 joplin.craigslist.org
 joules.com
 jp.mercari.com
+jp.superme.com
 jualo.com
 jula.pl
 juneau.craigslist.org
@@ -780,6 +807,7 @@ kliknklik.com
 klingel.de
 kmart.co.nz
 kmart.com.au
+kmt.org.tw/donate.aspx
 knoxville.craigslist.org
 ko.aliexpress.com
 koawach.de
@@ -789,6 +817,7 @@ komplett.no
 komputronik.pl
 konga.com
 kotsovolos.gr
+kp.muko.tw
 kpr.craigslist.org
 kroger.com
 ksu.craigslist.org
@@ -818,6 +847,7 @@ le-kiosque-a-pizzas.com
 leboncoin.fr
 leclercdrive.fr
 lego.com
+lenovo.com
 leroymerlin.pl
 letgo.com
 levi.com
@@ -882,6 +912,7 @@ lunashops.com
 luxembourg.craigslist.org
 lynchburg.craigslist.org
 lyon.craigslist.org
+kkday.com
 m.jcpenney.com
 macon.craigslist.org
 macys.com
@@ -916,6 +947,7 @@ mattoon.craigslist.org
 maurices.com
 maxvape.pl
 mcallen.craigslist.org
+mcdonalds.com
 meadville.craigslist.org
 mechanicalkeyboards.com
 medford.craigslist.org
@@ -926,6 +958,7 @@ mediamarkt.pl
 medimops.de
 melodiamusik.com
 melonbooks.co.jp
+member.tpp.org.tw
 memoryexpress.com
 memphis.craigslist.org
 mendocino.craigslist.org
@@ -996,6 +1029,8 @@ moseslake.craigslist.org
 mouser.com
 mouser.de
 movic.jp
+mrbeast.store
+mrbeastburger.com
 muji.us
 muncie.craigslist.org
 musimundo.com
@@ -1050,6 +1085,7 @@ newjersey.craigslist.org
 newlondon.craigslist.org
 newlook.com
 neworleans.craigslist.org
+news.rt-mart.com.tw
 newyork.craigslist.org
 nfm.com
 nh.craigslist.org
@@ -1071,6 +1107,7 @@ northmiss.craigslist.org
 northplatte.craigslist.org
 notebooksbilliger.de
 notonthehighstreet.com
+notorious-2019.com
 novatech.co.uk
 nsmall.com
 nwct.craigslist.org
@@ -1131,8 +1168,10 @@ paniniamerica.com
 parcelup.com
 paris.craigslist.org
 parkersburg.craigslist.org
+partner-tpp.org
 partycity.ca
 payless.com
+pay.kmt.org.tw
 pbtech.co.nz
 pccasegear.com
 pccomponentes.com
@@ -1145,6 +1184,7 @@ pcone.com.tw
 pcx.com.ph
 pegipegi.com
 pennstate.craigslist.org
+penoval.com.tw
 pensacola.craigslist.org
 peoria.craigslist.org
 periplus.com
@@ -1305,6 +1345,7 @@ santafe.craigslist.org
 santamaria.craigslist.org
 santiago.craigslist.org
 santodomingo.craigslist.org
+sanjing3c.com.tw
 saopaulo.craigslist.org
 sarasota.craigslist.org
 saturn.de
@@ -1373,8 +1414,10 @@ shopping.interpark.com
 shopping.naver.com
 shopping.parenting.com.tw
 shopping.yahoo.co.jp
+shopmrbeast.com
 showlow.craigslist.org
 shreveport.craigslist.org
+sidestore.io
 sierravista.craigslist.org
 silvan.dk
 siouxcity.craigslist.org
@@ -1413,7 +1456,9 @@ statesboro.craigslist.org
 staugustine.craigslist.org
 stcloud.craigslist.org
 steppingstone.com.tw
+stevenheshop.com
 stgeorge.craigslist.org
+stickermule.com
 stillwater.craigslist.org
 stjoseph.craigslist.org
 stlouis.craigslist.org
@@ -1447,6 +1492,7 @@ summitracing.com
 supercheapauto.co.nz
 superdry.com
 supremenewyork.com
+surfshark.com
 suruga-ya.com
 suruga-ya.jp
 susanville.craigslist.org
@@ -1463,8 +1509,10 @@ system76.com
 t-mobile.pl
 taaze.tw
 taiwanbar.cc
+taiwanmobile.com
 takealot.com
 tallahassee.craigslist.org
+tami.tw
 tampa.craigslist.org
 taniaksiazka.pl
 taobao.com
@@ -1474,6 +1522,7 @@ tcgplayer.com
 tchibo.com
 tchibo.de
 tchibo.pl
+tcsb.com.tw
 tedbaker.com
 teegschwendner.de
 tees.co.id
@@ -1515,6 +1564,7 @@ tmon.co.kr
 tokopedia.com
 toledo.craigslist.org
 tomford.com
+top945.com.tw
 topeka.craigslist.org
 torpedo7.co.nz
 torrid.com
@@ -1537,9 +1587,11 @@ tulsa.craigslist.org
 tunis.craigslist.org
 tuscaloosa.craigslist.org
 tuscarawas.craigslist.org
+tuxedocomputers.com
 tw.bid.yahoo.com
 tw.buy.yahoo.com
 tw.mail.yahoo.com
+tw.louisvuitton.com
 twinfalls.craigslist.org
 twintiers.craigslist.org
 u-mall.com.tw
@@ -1633,6 +1685,7 @@ yodobashi.com
 york.craigslist.org
 yorokonde.de
 youngstown.craigslist.org
+yourclass.com.tw
 ysl.com
 yubasutter.craigslist.org
 yuma.craigslist.org
