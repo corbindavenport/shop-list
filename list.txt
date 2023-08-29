@@ -289,6 +289,7 @@ chipart.com.br
 chipotle.com
 chloe.com
 christchurch.craigslist.org
+chrome.google.com/webstore
 cht.com.tw
 cincinnati.craigslist.org
 citymarket.com
@@ -526,6 +527,7 @@ everlane.com
 ewtnreligiouscatalogue.com
 expert.de
 express.com
+extensions.gnome.org
 ezwhite.id
 fabelio.com
 fabric.com
@@ -613,6 +615,7 @@ github.com/corbindavenport/shop-list
 github.com/corbindavenport/wii-shop-extension
 gmarket.co.kr
 gngbd.com
+gnome-look.org
 go-sport.com
 goapotik.com
 goat.com
@@ -1212,6 +1215,7 @@ plaisio.gr
 plattsburgh.craigslist.org
 play.google.com
 pleasedonotentershop.com
+pling.com
 poconos.craigslist.org
 pontofrio.com.br
 porthuron.craigslist.org
@@ -1485,6 +1489,7 @@ store.hypixel.net
 store.insta360.com
 store.linefriends.com
 store.loadingreadyrun.com
+store.kde.org
 store.moma.org
 store.nintendo.com
 store.playstation.com
