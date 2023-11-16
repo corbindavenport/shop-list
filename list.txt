@@ -321,6 +321,7 @@ costarica.craigslist.org
 costco.ca
 costco.com
 cotedazur.craigslist.org
+cpc.farnell.com
 cr.shopping.naver.com
 crocs.com
 csd.craigslist.org
@@ -611,6 +612,7 @@ guitarcenter.com
 gulfport.craigslist.org
 gumtree.com
 gymshark.com
+habitat.co.uk
 haifa.craigslist.org
 halfclub.com
 hallensteins.com
@@ -1081,6 +1083,7 @@ oakley.com
 oasisfashion.com
 obi.de
 obi.pl
+ocado.com
 ocala.craigslist.org
 odessa.craigslist.org
 offerup.com
@@ -1279,6 +1282,17 @@ rossmann.de
 rossmann.pl
 roswell.craigslist.org
 rouen.craigslist.org
+at.rs-online.com
+de.rs-online.com
+ch.rs-online.com
+us.rs-online.com
+nl.rs-online.com
+uk.rs-online.com
+fr.rs-online.com
+us.rs-online.com
+ca.rs-online.com
+it.rs-online.com
+rs-online.com
 rue21.com
 rueducommerce.fr
 ruparupa.com
