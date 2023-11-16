@@ -106,6 +106,7 @@ articulo.mercadolivre.com.br
 asheville.craigslist.org
 ashtabula.craigslist.org
 asos.com
+at.rs-online.com
 atala.co.id
 athensga.craigslist.org
 athensohio.craigslist.org
@@ -226,6 +227,7 @@ buy123.com.tw
 buyagift.co.uk
 buyee.jp
 c-and-a.com
+ca.rs-online.com
 cabelas.com
 cairo.craigslist.org
 calvinklein.us
@@ -264,6 +266,7 @@ ceneo.pl
 cenla.craigslist.org
 centralmich.craigslist.org
 cfl.craigslist.org
+ch.rs-online.com
 chambana.craigslist.org
 chambersburg.craigslist.org
 charleston.craigslist.org
@@ -344,6 +347,7 @@ davidjones.com
 dayton.craigslist.org
 daytona.craigslist.org
 de.aliexpress.com
+de.rs-online.com
 debenhams.com
 decathlon.de
 decathlon.fr
@@ -555,6 +559,7 @@ fortmyers.craigslist.org
 fortsmith.craigslist.org
 fortwayne.craigslist.org
 fr.aliexpress.com
+fr.rs-online.com
 fravega.com
 frederick.craigslist.org
 fredericksburg.craigslist.org
@@ -708,6 +713,7 @@ iowacity.craigslist.org
 iplace.com.br
 isawitfirst.com
 it.aliexpress.com
+it.rs-online.com
 itch.io
 item.gmarket.co.kr
 item.rakuten.co.jp
@@ -1060,6 +1066,7 @@ nike.com
 nike.de
 nl.aliexpress.com
 nl.fnac.be
+nl.rs-online.com
 nmi.craigslist.org
 nocibe.fr
 noelleeming.co.nz
@@ -1282,16 +1289,6 @@ rossmann.de
 rossmann.pl
 roswell.craigslist.org
 rouen.craigslist.org
-at.rs-online.com
-de.rs-online.com
-ch.rs-online.com
-us.rs-online.com
-nl.rs-online.com
-uk.rs-online.com
-fr.rs-online.com
-us.rs-online.com
-ca.rs-online.com
-it.rs-online.com
 rs-online.com
 rue21.com
 rueducommerce.fr
@@ -1559,6 +1556,7 @@ twintiers.craigslist.org
 u-mall.com.tw
 ubereats.com
 ugg.com
+uk.rs-online.com
 uk.webuy.com
 ukraine.craigslist.org
 ultima.pl
@@ -1573,6 +1571,7 @@ us.bape.com
 us.boohoo.com
 us.ecco.com
 us.puma.com
+us.rs-online.com
 us.shein.com
 us.shop.realmadrid.com
 utica.craigslist.org
