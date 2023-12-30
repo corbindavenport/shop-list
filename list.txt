@@ -229,6 +229,7 @@ buyee.jp
 c-and-a.com
 ca.rs-online.com
 cabelas.com
+cafepress.com
 cairo.craigslist.org
 calvinklein.us
 canadacomputers.com
@@ -565,6 +566,7 @@ frederick.craigslist.org
 fredericksburg.craigslist.org
 fredmayer.com
 freepeople.com
+freewear.org
 frenchconnection.com
 fresno.craigslist.org
 fromjapan.co.jp
@@ -635,6 +637,7 @@ hdmall.id
 he.aliexpress.com
 heb.com
 helena.craigslist.org
+hellotux.com
 hema.com
 hema.nl
 herdenkingsmunten.be
