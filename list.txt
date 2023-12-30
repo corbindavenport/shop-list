@@ -32,6 +32,7 @@ albertsons.com
 albuquerque.craigslist.org
 aldi-sued.de
 aldi.com
+aldi.com.au
 aldi.us
 alfamart.co.id
 alibaba.com
@@ -111,6 +112,7 @@ atala.co.id
 athensga.craigslist.org
 athensohio.craigslist.org
 atlanta.craigslist.org
+au.webuy.com
 auburn.craigslist.org
 auchan.fr
 auckland.craigslist.org
@@ -156,6 +158,7 @@ berrybenka.com
 bestbuy.ca
 bestbuy.com
 bett1.de
+betta.com.au
 bgky.craigslist.org
 bham.craigslist.org
 bhinneka.com
@@ -632,6 +635,7 @@ harrisonburg.craigslist.org
 harrys.com
 hartford.craigslist.org
 harveynorman.co.nz
+harveynorman.com.au
 hattiesburg.craigslist.org
 hdmall.id
 he.aliexpress.com
@@ -1571,6 +1575,7 @@ unipin.com
 uniqlo.com
 unitedsupermarkets.com
 universitystore.okstate.edu
+umart.com.au
 up.craigslist.org
 urbanoutfitters.com
 us.bape.com
