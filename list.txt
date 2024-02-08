@@ -303,6 +303,7 @@ columbiamo.craigslist.org
 columbus.craigslist.org
 columbusga.craigslist.org
 compumundo.com.ar
+computers.scorptec.com.au
 computeruniverse.de
 conforama.fr
 conrad.de
@@ -1671,4 +1672,3 @@ zenmarket.jp
 zoom-platform.com
 zooplus.de
 zooplus.fr
-computers.scorptec.com.au
