@@ -1,4 +1,3 @@
-bandcamp.com
 11st.co.kr
 123ink.ca
 1300k.com
@@ -130,6 +129,7 @@ backmarket.fr
 baghdad.craigslist.org
 bakersfield.craigslist.org
 baltimore.craigslist.org
+bandcamp.com
 bang-olufsen.com
 banggood.com
 bangladesh.craigslist.org
