@@ -131,11 +131,13 @@ backmarket.fr
 baghdad.craigslist.org
 bakersfield.craigslist.org
 baltimore.craigslist.org
+bandcamp.com
 bang-olufsen.com
 banggood.com
 bangladesh.craigslist.org
 barkbox.com
 barkshop.com
+barnesandnoble.com
 bartelldrugs.com
 based.win
 batonrouge.craigslist.org
@@ -307,6 +309,7 @@ columbiamo.craigslist.org
 columbus.craigslist.org
 columbusga.craigslist.org
 compumundo.com.ar
+computers.scorptec.com.au
 computeruniverse.de
 conforama.fr
 conrad.de
@@ -802,6 +805,7 @@ koawach.de
 kohls.com
 kokomo.craigslist.org
 komplett.no
+komplettbedrift.no
 komputronik.pl
 konga.com
 kotsovolos.gr
@@ -1128,6 +1132,7 @@ order.mandarake.co.jp
 order.noodles.com
 oregoncoast.craigslist.org
 orlando.craigslist.org
+oscwii.org
 oslo.craigslist.org
 otakumode.com
 otto.de
@@ -1321,6 +1326,7 @@ sandiego.craigslist.org
 sandusky.craigslist.org
 sanmarcos.craigslist.org
 sanmin.com.tw
+sanshee.com
 santabarbara.craigslist.org
 santafe.craigslist.org
 santamaria.craigslist.org
@@ -1457,6 +1463,7 @@ store.nintendo.com
 store.playstation.com
 store.steampowered.com
 store.taylorswift.com
+store.ubisoft.com
 store.usgs.gov
 store.warnermusic.com
 stpetersburg.craigslist.org
@@ -1530,6 +1537,7 @@ tiendamia.com
 tiket.com
 timberland.com
 timhortons.com
+tinytronics.nl
 tippecanoe.craigslist.org
 titipjepang.com
 tmon.co.kr
@@ -1537,6 +1545,7 @@ tokopedia.com
 toledo.craigslist.org
 tomford.com
 topeka.craigslist.org
+tori.fi
 torpedo7.co.nz
 torrid.com
 tottus.falabella.com
