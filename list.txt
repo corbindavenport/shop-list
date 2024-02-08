@@ -1,4 +1,3 @@
-barnesandnoble.com
 11st.co.kr
 123ink.ca
 1300k.com
@@ -135,6 +134,7 @@ banggood.com
 bangladesh.craigslist.org
 barkbox.com
 barkshop.com
+barnesandnoble.com
 bartelldrugs.com
 based.win
 batonrouge.craigslist.org
