@@ -1,6 +1,6 @@
 # Shopping Sites List
 
-This is a list of shopping websites, originally created for the [Wii Shop Channel Music](https://github.com/corbindavenport/wii-shop-extension) browser extension.
+This is a list of shopping websites.
 
 [![](https://data.jsdelivr.com/v1/package/gh/corbindavenport/shop-list/badge)](https://www.jsdelivr.com/package/gh/corbindavenport/shop-list)
 
